@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+.parcel-cache
+.tmp
+
+coverage
+dist
+node_modules
+storybook-static
+
+*.log
+*.tsbuildinfo
